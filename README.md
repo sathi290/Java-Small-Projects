@@ -11,7 +11,7 @@
 - Exit Condition: The game ends when the correct number is guessed, and the number of attempts is displayed.
 
 <br/>
-# Project: Student Information System with Data Structures (Intermediate Project)
+## Project: Student Information System with Data Structures (Intermediate Project)
 
 ## Project Description:
 - This is a Student Information System where student details are stored, and CRUD operations (Create, Read, Update, Delete) are performed using OOP (Object-Oriented Programming) and DSA (Data Structures) concepts. The data is stored in a custom LinkedList structure and performs searching using Binary Search Trees (BST) for efficient data retrieval.
